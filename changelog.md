@@ -1,3 +1,11 @@
+v. 1.3.8 pre
+- Bugfixing
+- New interior for Tucano cockpit
+- New Bronco cockpit
+- New FlyPit cockpit
+- Messing with props
+- New agency logo, more intuitive on agency list
+
 v. 1.3.7 "Afterburning"
 - New Afterburning engine FX
 - Fixed Falken RCS bug
