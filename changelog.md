@@ -3,6 +3,7 @@ v.1.3.9.1
 - 1.2 support discontinued. Version still availaible
 - 1.3.1 supported
 - Curse discontinued
+
 v. 1.3.9 "Low Pass"
 - Updated for 1.3
 - New fin texture
