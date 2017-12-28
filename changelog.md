@@ -1,3 +1,8 @@
+v.1.4 "Merry Christmas"
+- Configuring, testing, etc.
+- NEW COCKPIT! Su-57 cockpit, internals still pending.
+- Heavy bugfixing (Including engine starting by itself).
+
 v.1.3.9.1
 - Minor bugfixing before major update at christmas
 - 1.2 support discontinued. Version still availaible
