@@ -5,9 +5,8 @@
   "CHANGE_LOG_URL": "https://raw.githubusercontent.com/WolfairCorp/AoA-Technologies/master/changelog.md",
   "VERSION": {
     "MAJOR": 1,
-    "MINOR": 3,
-    "PATCH": 9,
-    "BUILD": 1
+    "MINOR": 4,
+    "PATCH": 0
   },
   "KSP_VERSION": {
     "MAJOR": 1,
